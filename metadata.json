@@ -1,0 +1,7 @@
+{
+  "name": "Transportes",
+  "description": "Aplicativo inteligente para controle de fretes, gastos e análise de lucro para caminhoneiros e frotistas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
